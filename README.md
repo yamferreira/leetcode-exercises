@@ -10,4 +10,4 @@ O objetivo principal não é criar aplicações para execução, mas sim documen
 * Praticar estruturas de dados e algoritmos.
 * Entender diferentes padrões de resolução de problemas.
 * Registrar minha evolução ao longo dos estudos.
-* Criar uma base de revisão para futuras entrevistas técnicas..
+* Criar uma base de revisão para futuras entrevistas técnicas
